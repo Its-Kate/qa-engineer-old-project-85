@@ -53,11 +53,11 @@
 
 - summary: |
     Просмотор записи своей завершенной завершенной игры
-  status: pass
+  status: fail
 
 - summary: |
     Редактирование профиля 
-  status: pass
+  status: fail
 
 - summary: |
     Просмотр рейтинга пользователей через "Hover message"
