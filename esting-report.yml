@@ -1,0 +1,72 @@
+---
+- summary: |
+    Создание игры
+  status: pass
+
+- summary: |
+    Создание игры с другом (конкретным пользователем)
+  status: pass
+
+- summary: |
+    Отмена игры с другом (конкретным пользователем)
+  status: pass
+
+- summary: |
+    Отказ от приглашения на игру
+  status: pass
+
+- summary: |
+    Подтверждение приглашения на игру
+  status: pass
+
+- summary: |
+    Отображение вводимого кода противника
+  status: pass
+
+- summary: |
+    Присоединение к игре в Лобби
+  status: pass
+
+- summary: |
+    Перевод задачи на русский язык 
+  status: pass
+
+- summary: |
+    Прерывание игры
+  status: pass
+
+- summary: |
+    Продолжение прерванной (начатой) игры
+  status: pass
+
+- summary: |
+    Сдаться (Give up) во время игры 
+  status: pass
+
+- summary: |
+    Ответный матч (Rematch) 
+  status: pass
+
+- summary: |
+    Просмотр записи завершенной игры любого пользователя
+  status: pass
+
+- summary: |
+    Просмотор записи своей завершенной завершенной игры
+  status: pass
+
+- summary: |
+    Редактирование профиля 
+  status: pass
+
+- summary: |
+    Просмотр рейтинга пользователей через "Hover message"
+  status: pass
+
+- summary: |
+    Просмотр рейтинга пользователей через карточку пользователя
+  status: pass
+
+- summary: |
+    Поиск пользователя по имени/никнейму
+  status: pass
