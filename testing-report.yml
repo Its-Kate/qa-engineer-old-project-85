@@ -57,7 +57,7 @@
 
 - summary: |
     Редактирование профиля 
-  status: fail
+  status: pass
 
 - summary: |
     Просмотр рейтинга пользователей через "Hover message"
